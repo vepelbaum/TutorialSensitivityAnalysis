@@ -7,6 +7,7 @@ We present a practical workflow for conducting global sensitivity analysis (SA) 
 * Variance-based Sobol sensitivity analysis
 * Distribution-based PAWN sensitivity analysis
 
+The full script for the sensitivity analysis can be found in [Full_Analysis_GET.R](Full_Analysis_GET.R). To run this analysis, source [GET_model.R](GET_model.R) to load the GET model first. Computing the output for the sample matrices might take a while. The precompted matrices and their output can be found in the [samples](samples) folder.
 
 ### Reference:
 
